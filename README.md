@@ -81,7 +81,7 @@ Breast_Cancer_Classification/
 - Jupyter Notebook–based implementation
 - Visualizations for feature distributions and correlations
 - Printed evaluation metrics and confusion matrices
--access:
+- access:
     live_url: "https://cancer-clear-gui.lovable.app/"
 ---
 
