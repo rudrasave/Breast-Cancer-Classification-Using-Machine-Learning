@@ -48,13 +48,13 @@ A machine learning–based classification system that analyzes medical diagnosti
 ---
 
 ## 📁 Project Structure
-
+```
 Breast_Cancer_Classification/
 │
 ├── Breast_Cancer_Classification.ipynb
 ├── dataset.csv # (if used externally)
 ├── README.md
-
+```
 
 
 ---
