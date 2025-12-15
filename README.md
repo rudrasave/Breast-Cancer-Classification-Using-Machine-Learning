@@ -42,6 +42,7 @@ A machine learning–based classification system that analyzes medical diagnosti
 
 ## 🏗️ System Architecture
 
+![System Architecture](assets/system_architecture.png)
 
 
 
